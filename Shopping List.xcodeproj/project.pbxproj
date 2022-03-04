@@ -16,6 +16,7 @@
 		C8C2009527D1FE95000B7CAE /* Shopping_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C2009427D1FE95000B7CAE /* Shopping_ListTests.swift */; };
 		C8C2009F27D1FE95000B7CAE /* Shopping_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C2009E27D1FE95000B7CAE /* Shopping_ListUITests.swift */; };
 		C8C200A127D1FE95000B7CAE /* Shopping_ListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C200A027D1FE95000B7CAE /* Shopping_ListUITestsLaunchTests.swift */; };
+		C8C200AE27D23E07000B7CAE /* ShoppingListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C200AD27D23E07000B7CAE /* ShoppingListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		C8C2009A27D1FE95000B7CAE /* Shopping ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Shopping ListUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8C2009E27D1FE95000B7CAE /* Shopping_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shopping_ListUITests.swift; sourceTree = "<group>"; };
 		C8C200A027D1FE95000B7CAE /* Shopping_ListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shopping_ListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C8C200AD27D23E07000B7CAE /* ShoppingListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				C8C2007E27D1FE94000B7CAE /* Shopping_ListApp.swift */,
 				C8C2008027D1FE94000B7CAE /* ContentView.swift */,
+				C8C200AD27D23E07000B7CAE /* ShoppingListView.swift */,
 				C8C2008227D1FE95000B7CAE /* Assets.xcassets */,
 				C8C2008727D1FE95000B7CAE /* Persistence.swift */,
 				C8C2008927D1FE95000B7CAE /* Shopping_List.xcdatamodeld */,
@@ -267,6 +270,7 @@
 				C8C2008B27D1FE95000B7CAE /* Shopping_List.xcdatamodeld in Sources */,
 				C8C2008127D1FE94000B7CAE /* ContentView.swift in Sources */,
 				C8C2007F27D1FE94000B7CAE /* Shopping_ListApp.swift in Sources */,
+				C8C200AE27D23E07000B7CAE /* ShoppingListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
